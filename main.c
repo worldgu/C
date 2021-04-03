@@ -1,11 +1,19 @@
 #include <stdio.h>
+#include "first.c"
+#include "platinum.c"
+#include "bases.c"
+#include "typesize.c"
+#include "escape.c"
+#include "talkback.c"
 
 int main(void) {
-    printf("Hello, World!\n");
-    int num;
-    num = 1;
-    printf("I am a simple ");
-    printf("coputer . \n");
-    printf("My Favorite number is %d because it is first . \n ,num");
+    // 测试输出
+//    FirstPrint();
+//    platinum();
+
+//    bases();
+//    typesize();
+//    escape();
+    talkback();
     return 0;
 }

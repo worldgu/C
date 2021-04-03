@@ -6,7 +6,45 @@
 
 #IncludeRegexTransform: 
 
+H:/CodeSpace/C/bases.c
+stdio.h
+H:/CodeSpace/C/stdio.h
+
+H:/CodeSpace/C/escape.c
+stdio.h
+H:/CodeSpace/C/stdio.h
+
+H:/CodeSpace/C/first.c
+stdio.h
+-
+
 H:/CodeSpace/C/main.c
+stdio.h
+-
+first.c
+H:/CodeSpace/C/first.c
+platinum.c
+H:/CodeSpace/C/platinum.c
+bases.c
+H:/CodeSpace/C/bases.c
+typesize.c
+H:/CodeSpace/C/typesize.c
+escape.c
+H:/CodeSpace/C/escape.c
+talkback.c
+H:/CodeSpace/C/talkback.c
+
+H:/CodeSpace/C/platinum.c
+stdio.h
+-
+
+H:/CodeSpace/C/talkback.c
+stdio.h
+H:/CodeSpace/C/stdio.h
+string.h
+H:/CodeSpace/C/string.h
+
+H:/CodeSpace/C/typesize.c
 stdio.h
 -
 
