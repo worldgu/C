@@ -5,6 +5,7 @@
 #include "typesize.c"
 #include "escape.c"
 #include "talkback.c"
+#include "shosel.c"
 
 int main(void) {
     // 测试输出
@@ -14,6 +15,7 @@ int main(void) {
 //    bases();
 //    typesize();
 //    escape();
-    talkback();
+//    talkback();
+    shosel();
     return 0;
 }

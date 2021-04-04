@@ -6,6 +6,7 @@ CMakeFiles\C.dir\main.c.obj: ..\escape.c
 CMakeFiles\C.dir\main.c.obj: ..\first.c
 CMakeFiles\C.dir\main.c.obj: ..\main.c
 CMakeFiles\C.dir\main.c.obj: ..\platinum.c
+CMakeFiles\C.dir\main.c.obj: ..\shosel.c
 CMakeFiles\C.dir\main.c.obj: ..\talkback.c
 CMakeFiles\C.dir\main.c.obj: ..\typesize.c
 
